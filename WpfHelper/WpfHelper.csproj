@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>LovelyFlour.WpfHelper</Title>
+    <Authors>LovelyFlour</Authors>
+    <Company>LovelyFlour</Company>
+    <PackageTags>WPF; Helper; EntityFraemwork;</PackageTags>
+    <PackageId>LovelyFlour.WpfHelper</PackageId>
+    <Description>for you</Description>
+  </PropertyGroup>
+
+</Project>
